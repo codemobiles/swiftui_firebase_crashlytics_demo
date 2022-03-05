@@ -1,0 +1,6 @@
+framework module Pods_demoCrashlytic {
+  umbrella header "Pods-demoCrashlytic-umbrella.h"
+
+  export *
+  module * { export * }
+}
